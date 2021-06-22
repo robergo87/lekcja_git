@@ -1,5 +1,5 @@
 temperatura maksymalna: 40
-temperatura minimalna: 15
+temperatura minimalna: 22
 
 wilgotność maksymalna: 90
 wilgotność minimalna: 70
