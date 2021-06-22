@@ -1,10 +1,10 @@
 temperatura maksymalna: 40
 temperatura minimalna: 15
 
-wilgotność maksymalna: 90
-wilgotność minimalna: 70
+wilgotność maksymalna: 50
+wilgotność minimalna: 30
 
-objętość szklarni: 4x3x2
+objętość szklarni: 2x3x2
 
-co hodujemy: Ananasy
+co hodujemy: Kaktus
 
