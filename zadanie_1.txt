@@ -10,11 +10,11 @@ co hodujemy: Ananasy
 
 // druga polowa 
 
-temperatura maksymalna: 35
-temperatura minimalna: 30
+temperatura maksymalna: 30
+temperatura minimalna: 25
 
-wilgotność maksymalna: 40
-wilgotność minimalna: 30
+wilgotność maksymalna: 50
+wilgotność minimalna: 40
 
 objętość szklarni: 4x3x2 / 2
 
