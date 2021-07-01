@@ -1,5 +1,5 @@
-temperatura maksymalna: 35
-temperatura minimalna: 25
+temperatura maksymalna: 30
+temperatura minimalna: 20
 
 wilgotność maksymalna: 80
 wilgotność minimalna: 50
